@@ -5,7 +5,7 @@ Download on [Modrinth](https://modrinth.com/resourcepack/enchantment-modifiers)
 
 ## Versions
 #### 1.20.1 or <ins>Older</ins>: Requires [CIT Resewn](https://modrinth.com/mod/cit-resewn) or [OptiFine](https://www.optifine.net/home) to function
-#### 1.21.5 or <ins>Newer</ins> No mods required!
+#### 1.21.5 or <ins>Newer</ins> No mods required! (emissive textures Don't Work atm)
 
 ## About
 Originally made to differentiate Silk Touch & Fortune from each other quickly.<br>

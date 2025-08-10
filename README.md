@@ -3,7 +3,8 @@
 A Minecraft resourcepack that makes enchantments look like Tinkers' Modifers ![fortune](https://user-images.githubusercontent.com/65592600/235930835-d9fa23c8-3c49-45bd-8d00-f45dd058ab06.png)<br/>
 Download on [Modrinth](https://modrinth.com/resourcepack/enchantment-modifiers)
 
-#### Requires [CIT Resewn](https://modrinth.com/mod/cit-resewn) or [OptiFine](https://www.optifine.net/home) to function
+#### <= 1.20.1 Requires [CIT Resewn](https://modrinth.com/mod/cit-resewn) or [OptiFine](https://www.optifine.net/home) to function
+#### >= 1.21.5 No mods required!
 
 Originally made to differentiate Silk Touch & Fortune from each other quickly.<br>
 

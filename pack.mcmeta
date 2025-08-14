@@ -1,7 +1,7 @@
 ﻿{
     "pack": {
-        "pack_format": 13,
-        "supported_formats": { "min_inclusive": 13, "max_inclusive": 81 },
+        "pack_format": 55,
+        "supported_formats": { "min_inclusive": 55, "max_inclusive": 81 },
         "description": "Make enchantments look like Tinkers' Modifers"
     }
 }
